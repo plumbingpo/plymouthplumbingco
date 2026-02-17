@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://plymouthplumbingco.com/sitemap.xml
